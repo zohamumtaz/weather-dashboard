@@ -19,7 +19,7 @@ Technologies used for this project:
 ## Deployed link
 
 
-## Github repo
+## Github repo:https://github.com/zohamumtaz/weather-dashboard
 
 
 
