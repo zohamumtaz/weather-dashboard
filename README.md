@@ -16,7 +16,7 @@ Technologies used for this project:
 ## Screenshot
 ![Screenshot1](./images/screenshot1.png)
 
-## Deployed link
+## Deployed link:https://zohamumtaz.github.io/weather-dashboard/.
 
 
 ## Github repo:https://github.com/zohamumtaz/weather-dashboard
